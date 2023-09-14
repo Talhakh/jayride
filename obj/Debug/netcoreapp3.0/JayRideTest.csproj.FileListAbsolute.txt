@@ -1,5 +1,0 @@
-C:\Users\Talha\source\repos\JayRideTest\obj\Debug\netcoreapp3.0\JayRideTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Talha\source\repos\JayRideTest\obj\Debug\netcoreapp3.0\JayRideTest.AssemblyInfoInputs.cache
-C:\Users\Talha\source\repos\JayRideTest\obj\Debug\netcoreapp3.0\JayRideTest.AssemblyInfo.cs
-C:\Users\Talha\source\repos\JayRideTest\obj\Debug\netcoreapp3.0\JayRideTest.csproj.CoreCompileInputs.cache
-C:\Users\Talha\source\repos\JayRideTest\obj\Debug\netcoreapp3.0\JayRideTest.MvcApplicationPartsAssemblyInfo.cache
