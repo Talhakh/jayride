@@ -23,6 +23,7 @@ namespace JayRideTest.Controllers
         {
             try
             {
+                if (numberOfPassengers <= 0) return BadRequest("Number of passengers need to be greater than 0");
                 var restClient = new RestClient(_appConfig.JayRideBaseUrl);
                 var endpoint = "/api/QuoteRequest";
 
